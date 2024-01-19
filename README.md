@@ -121,11 +121,11 @@ Demo d = new Demo(2,4);
 
 ### automatic link
 
-http://www.studywithanis.com
+http://www.google.com
 
 ### disable link
 
-`http://www.studywithanis.com`
+`http://www.fecbook.com`
 
 ### markdown link sytax
 
@@ -133,7 +133,7 @@ http://www.studywithanis.com
 
 ### markdown link sytax
 
-[studywithanis][websitelink]
+[instra][websitelink]
 [facebook][facebooklink]
 
 <br/>
